@@ -43,7 +43,7 @@ sudo make install
 
 # APACHE
 
-Telechargements des paquets sources  httpd-2.4.59.tar.bz2 dans des sites officielles comme APACHE .  
+Telechargements des paquets sources  httpd-2.4.59.tar.bz2 dans des sites officielles comme (https://httpd.apache.org) .  
 Commande :
 
 ```
@@ -79,7 +79,7 @@ echo "export PATH='$PATH:/usr/local/apache2/bin'" >> .bachrc
 
 # PHP
 	
-Telechargements des paquets sources  php-8.1.28.tar.gz dans des sites officielles comme php.net .  
+Telechargements des paquets sources  php-8.1.28.tar.gz dans des sites officielles comme (https://www.php.net) .  
  
 Commande :
 ```
