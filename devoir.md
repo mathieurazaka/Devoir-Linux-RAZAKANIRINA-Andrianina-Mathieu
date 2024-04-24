@@ -73,6 +73,7 @@ sudo make install
 cd
 echo "export PATH='$PATH:/usr/local/apache2/bin'" >> .bachrc
 ```
+<img src="https://github.com/mathieurazaka/Devoir-Linux-RAZAKANIRINA-Andrianina-Mathieu/blob/main/apache.png" alt="Capture_Apache" >
 # PHP
 	
 Telechargements des paquets sources  php-8.1.28.tar.gz dans des sites officielles comme php.net .  
