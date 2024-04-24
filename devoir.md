@@ -39,6 +39,8 @@ Installation
 ```  
 sudo make install
 ```
+<img src="https://github.com/mathieurazaka/Devoir-Linux-RAZAKANIRINA-Andrianina-Mathieu/blob/main/mysql.png" alt="Captur_ecran_Mysql" >
+
 # APACHE
 
 Telechargements des paquets sources  httpd-2.4.59.tar.bz2 dans des sites officielles comme APACHE .  
@@ -73,7 +75,8 @@ sudo make install
 cd
 echo "export PATH='$PATH:/usr/local/apache2/bin'" >> .bachrc
 ```
-<img src="https://github.com/mathieurazaka/Devoir-Linux-RAZAKANIRINA-Andrianina-Mathieu/blob/main/apache.png" alt="Capture_Apache" >
+<img src="https://github.com/mathieurazaka/Devoir-Linux-RAZAKANIRINA-Andrianina-Mathieu/blob/main/apache.png" alt="Capture_ecran_Apache" >
+
 # PHP
 	
 Telechargements des paquets sources  php-8.1.28.tar.gz dans des sites officielles comme php.net .  
@@ -108,3 +111,4 @@ Installation
 ```
 sudo make install
 ```
+<img src="https://github.com/mathieurazaka/Devoir-Linux-RAZAKANIRINA-Andrianina-Mathieu/blob/main/php.png" alt="Capture_ecran_php" >
